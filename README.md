@@ -5,31 +5,7 @@
 </div>
 
 <p align="center">
-  <svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated profile image">
-    <defs>
-      <linearGradient id="ringGradient" x1="0%" x2="100%" y1="0%" y2="100%">
-        <stop offset="0%" stop-color="#ff8be1"/>
-        <stop offset="50%" stop-color="#c084fc"/>
-        <stop offset="100%" stop-color="#f9a8d4"/>
-      </linearGradient>
-      <clipPath id="avatarClip">
-        <circle cx="110" cy="110" r="74"/>
-      </clipPath>
-    </defs>
-
-    <g>
-      <animateTransform attributeName="transform" type="rotate" from="0 110 110" to="360 110 110" dur="12s" repeatCount="indefinite"/>
-      <circle cx="110" cy="110" r="90" fill="none" stroke="url(#ringGradient)" stroke-width="8" opacity="0.9"/>
-      <circle cx="110" cy="110" r="82" fill="none" stroke="#f9a8d4" stroke-width="2" stroke-dasharray="10 12" opacity="0.9"/>
-    </g>
-
-    <image href="https://github.com/rumaisa-mallick.png" x="36" y="36" width="148" height="148" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
-
-    <circle cx="110" cy="110" r="74" fill="none" stroke="#ffd9f8" stroke-width="3" opacity="0.8">
-      <animate attributeName="r" values="74;78;74" dur="2.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="Animated pink glow profile frame" width="230" />
 </p>
 
 <p align="center">
