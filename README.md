@@ -1,11 +1,11 @@
 # Rumaisa Mallick
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF8BE1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rumaisa+%F0%9F%91%8B;Software+Engineer;Game+Developer;AI+%26+ML+Explorer;Building+creative+digital+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF8BE1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rumaisa;Software+Engineer;Game+Developer;AI+%26+ML+Explorer;Building+creative+digital+solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" alt="Animated pink glow profile frame" width="230" />
+  <img src="https://github.com/rumaisa-mallick.png?size=220" alt="Rumaisa Mallick" width="180" style="border-radius:50%; border: 3px solid #FF8BE1; box-shadow: 0 0 25px rgba(255,139,225,0.6);" />
 </p>
 
 <p align="center">
