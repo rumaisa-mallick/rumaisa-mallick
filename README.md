@@ -1,63 +1,107 @@
-# Rumaisa Mallick
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF8BE1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rumaisa;Software+Engineer;Game+Developer;AI+%26+ML+Explorer;Building+creative+digital+solutions" alt="Typing SVG" />
+
+<p><sub>AN EDITORIAL PROFILE · RUMAISA-MALLICK</sub></p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&label=RUMAISA%20MALLICK&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&label=RUMAISA%20MALLICK&mode=dark" width="100%" alt="RUMAISA MALLICK cinematic profile scene" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&label=RUMAISA%20MALLICK&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&label=RUMAISA%20MALLICK&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="RUMAISA MALLICK animated ASCII name" />
+</picture>
+
+<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
+<p>I love making games!</p>
+
+<p><a href="https://github.com/rumaisa-mallick">GitHub</a></p>
 </div>
 
-<p align="center">
-  <img src="https://github.com/rumaisa-mallick.png?size=220" alt="Rumaisa Mallick" width="180" style="border-radius:50%; border: 3px solid #FF8BE1; box-shadow: 0 0 25px rgba(255,139,225,0.6);" />
-</p>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rumaisa-mallick-482374322"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rumaisamallick153@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-%23FF66C4.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="58%" valign="top"><h2>The point of view</h2><blockquote>I love making games!</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · TypeScript</sub></p><p><strong>8</strong> repos<br /><strong>54</strong> contributions<br /><strong>1</strong> followers</p></td>
+</tr>
+</table>
 
-## About Me
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-Hi, I'm Rumaisa, a Software Engineering student passionate about building creative and impactful digital solutions. I enjoy developing software, exploring AI and machine learning, and creating games that turn ideas into interactive experiences.
+<h2>In the current cut</h2>
 
-I love combining creativity with technology to solve real-world problems and bring innovative ideas to life. I'm always eager to learn, experiment with new technologies, and build projects that make a difference.
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CCSS%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&items=TypeScript%3A%3ACurrent%20focus%7CJavaScript%3A%3AIn%20the%20active%20build%20queue%7CCSS%3A%3AIn%20the%20active%20build%20queue&v=cinematic-highlights-2&mode=dark" width="100%" alt="RUMAISA MALLICK cinematic highlights" />
+</picture>
 
-## Skills
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Game%20Development-%23FF66C4?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-%23C084FC?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7B2FF?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%23D8B4FE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23E9D5FF?style=for-the-badge&logo=openjdk&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-%23E9D5FF?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F9A8D4?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-## Currently Exploring
+<h2>Production palette</h2>
 
-- 🎮 Game development
-- 🤖 AI and machine learning
-- 💡 Creative problem solving
-- 🚀 Building interactive and impactful digital experiences
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&v=cinematic-stack-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&v=cinematic-stack-2&mode=dark" width="100%" alt="RUMAISA MALLICK animated technology stack" />
+</picture>
 
-## Featured Projects
+<p align="center"><sub>TypeScript · JavaScript · CSS · C++ · HTML · CMake · C · Java · tools chosen for the work, not the trend</sub></p>
 
-- [City-Building-Game](https://github.com/rumaisa-mallick/City-Building-Game) — A game project focused on strategy and creative design
-- [Game](https://github.com/rumaisa-mallick/Game) — Interactive game development experiments
-- [Karachi-infrastructure-Plan-](https://github.com/rumaisa-mallick/Karachi-infrastructure-Plan-) — A project exploring real-world planning and design concepts
-- [Mind-Mate---Student-support-](https://github.com/rumaisa-mallick/Mind-Mate---Student-support-) — Student-focused support initiative
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-## GitHub Stats
+<h2>Featured reel</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumaisa-mallick&show_icons=true&theme=radical&title_color=ff8be1&icon_color=f5d5ff&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumaisa-mallick&theme=radical&dates=FF8BE1&ring=FF8BE1&fire=F9A8D4&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&background=0d1117" alt="GitHub streak stats" height="180" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&repos=rumaisa-mallick%2FCity-Building-Game%2Crumaisa-mallick%2FDigital-Evolution%2Crumaisa-mallick%2FMind-Mate---Student-support-%2Crumaisa-mallick%2FMyengine-3D-game-&v=cinematic-projects-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&repos=rumaisa-mallick%2FCity-Building-Game%2Crumaisa-mallick%2FDigital-Evolution%2Crumaisa-mallick%2FMind-Mate---Student-support-%2Crumaisa-mallick%2FMyengine-3D-game-&v=cinematic-projects-2&mode=dark" width="100%" alt="RUMAISA MALLICK cinematic project reel" />
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumaisa-mallick&bg_color=0d1117&color=ffffff&line=ff8be1&point=f5d5ff&area_color=ff66c4&area=true" alt="Contribution graph" />
-</p>
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/rumaisa-mallick/City-Building-Game">City-Building-Game</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>TypeScript · ⭐ 1</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/rumaisa-mallick/Digital-Evolution">Digital-Evolution</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/rumaisa-mallick/Mind-Mate---Student-support-">Mind-Mate---Student-support-</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/rumaisa-mallick/Myengine-3D-game-">Myengine-3D-game-</a></strong></p><p>A selected scene from this public body of work.</p><p><sub>C++ · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
----
+<p align="center"><sub>─────── ◇ ───────</sub></p>
 
-<p align="center">
-  <i>Learning, building, and turning ideas into experiences.</i>
-</p>
+<p align="center"><sub>8 public projects · 1 stars · 54 contributions · 1 followers</sub></p>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<h2>Contribution trail</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="RUMAISA MALLICK contribution snake" />
+</picture>
+
+<h2>Play the next move</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/chess?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&v=cinematic-chess-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/chess?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&v=cinematic-chess-1&mode=dark" width="100%" alt="RUMAISA MALLICK animated chess replay" />
+</picture>
+
+<p align="center"><sub>─────── ◇ ───────</sub></p>
+
+<div align="center">
+<p><sub>THE NEXT SCENE</sub></p>
+
+<h2>Keep the story moving</h2>
+
+<p>I enjoy working with people who care about the details, share the context, and ship something useful.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&v=cinematic-social-2&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&v=cinematic-social-2&mode=dark" width="100%" alt="RUMAISA MALLICK contact links" />
+</picture>
+
+<p><a href="https://github.com/rumaisa-mallick">GitHub</a></p>
+
+<p><sub>RUMAISA MALLICK · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
