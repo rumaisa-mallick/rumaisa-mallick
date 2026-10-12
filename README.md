@@ -15,9 +15,9 @@
 
 ## About Me
 
-Hi, I’m Rumaisa, a Software Engineering student passionate about building creative and impactful digital solutions. I enjoy developing software, exploring AI and machine learning, and creating games that turn ideas into interactive experiences.
+Hi, I'm Rumaisa, a Software Engineering student passionate about building creative and impactful digital solutions. I enjoy developing software, exploring AI and machine learning, and creating games that turn ideas into interactive experiences.
 
-I love combining creativity with technology to solve real-world problems and bring innovative ideas to life. I’m always eager to learn, experiment with new technologies, and build projects that make a difference.
+I love combining creativity with technology to solve real-world problems and bring innovative ideas to life. I'm always eager to learn, experiment with new technologies, and build projects that make a difference.
 
 ## Skills
 
@@ -53,7 +53,7 @@ I love combining creativity with technology to solve real-world problems and bri
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=rumaisa-mallick&theme=matrix&style=snake&bg=0d1117&color=FFFFFF&snake=FF8BE1" alt="GitHub contribution snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rumaisa-mallick&bg_color=0d1117&color=ffffff&line=ff8be1&point=f5d5ff&area_color=ff66c4&area=true" alt="Contribution graph" />
 </p>
 
 ---
