@@ -1,7 +1,7 @@
 # Rumaisa Mallick
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF8BE1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rumaisa;Software+Engineer;Game+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF8BE1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rumaisa;Software+Engineer;Game+Developer;AI+%26+ML+Explorer;Building+creative+digital+solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hi, I’m Rumaisa, a Software Engineering student passionate about building creative and impactful digital solutions. I enjoy developing software, exploring AI and machine learning, and creating game experiences that combine technical depth with artistic vision.
+Hi, I’m Rumaisa, a Software Engineering student passionate about building creative and impactful digital solutions. I enjoy developing software, exploring AI and machine learning, and creating games that turn ideas into interactive experiences.
 
 I love combining creativity with technology to solve real-world problems and bring innovative ideas to life. I’m always eager to learn, experiment with new technologies, and build projects that make a difference.
 
@@ -48,12 +48,12 @@ I love combining creativity with technology to solve real-world problems and bri
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rumaisa-mallick&show_icons=true&theme=radical&title_color=ff8be1&icon_color=e9a3ff&text_color=f5d5ff&bg_color=0d1117" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumaisa-mallick&theme=radical&dates=FF8BE1&ring=FF8BE1&fire=FF66C4&currStreakLabel=FFD6F5" alt="GitHub streak stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rumaisa-mallick&show_icons=true&theme=radical&title_color=ff8be1&icon_color=f5d5ff&text_color=ffffff&bg_color=0d1117" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rumaisa-mallick&theme=radical&dates=FF8BE1&ring=FF8BE1&fire=F9A8D4&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&background=0d1117" alt="GitHub streak stats" height="180" />
 </p>
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=rumaisa-mallick&theme=matrix&style=snake&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&v=showcase-heatmap-3" alt="RUMAISA MALLICK heatmap visual" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=rumaisa-mallick&theme=matrix&style=snake&bg=0d1117&color=FFFFFF&snake=FF8BE1" alt="GitHub contribution snake" />
 </p>
 
 ---
