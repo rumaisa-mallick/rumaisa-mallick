@@ -23,7 +23,7 @@
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
 <td width="58%" valign="top"><h2>The point of view</h2><blockquote>I love making games!</blockquote><p><sub>Small teams, ambitious ideas, and useful collaborations.</sub></p></td>
-<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · TypeScript</sub></p><p><strong>8</strong> repos<br /><strong>54</strong> contributions<br /><strong>1</strong> followers</p></td>
+<td width="42%" valign="top"><p><code>PROFILE</code></p><p><sub>ROLE · Frontend or full-stack engineer<br />BASED · the public internet<br />FOCUS · TypeScript</sub></p><p><strong>8</strong> repos<br /><strong>1</strong> followers</p></td>
 </tr>
 </table>
 
@@ -68,17 +68,6 @@
 </table>
 
 <p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<p align="center"><sub>8 public projects · 1 stars · 54 contributions · 1 followers</sub></p>
-
-<p align="center"><sub>─────── ◇ ───────</sub></p>
-
-<h2>Contribution trail</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&style=snake&v=cinematic-snake-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=rumaisa-mallick&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F239514630%3Fu%3D5228768740bb27cde1f579f862e98200aacd3d7b%26v%3D4&style=snake&v=cinematic-snake-1&mode=dark" width="100%" alt="RUMAISA MALLICK contribution snake" />
-</picture>
 
 <h2>Play the next move</h2>
 
